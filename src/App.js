@@ -21,6 +21,7 @@ function App() {
         </a>
         <h6>Name: MD.Kamrul Hasan</h6>
         <p>ID: CSE 02006947</p>
+        <p>CSE 20th Batch</p>
       </header>
     </div>
   );
